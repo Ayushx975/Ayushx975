@@ -36,15 +36,27 @@ Full-Stack           FastAPI · Next.js · TypeScript · PostgreSQL
 
 ---
 
+### 🔧 Recent Builds
+
+| Project | What It Does |
+|---|---|
+| [upi-anomaly-guard](https://github.com/Ayushx975/upi-anomaly-guard) | UPI transaction anomaly detection — Isolation Forest + explainable rule flags (8/8 mules caught, 0 false positives) |
+| [credit-scorer-lite](https://github.com/Ayushx975/credit-scorer-lite) | Credit scoring with reason codes — XGBoost + per-applicant attributions, APPROVE/REVIEW/DECLINE tiers |
+| [portfolio-stats-api](https://github.com/Ayushx975/portfolio-stats-api) | Portfolio analytics REST API — CAGR, Sharpe/Sortino, max drawdown, diversification score (13 tests) |
+| [expense-tracker-cli](https://github.com/Ayushx975/expense-tracker-cli) | Zero-dependency finance CLI — budgets, overspend warnings, summaries, CSV export |
+
+---
+
 ### 📌 Pinned Repositories
 
 | Repo | Description |
 |---|---|
 | [muleshield-web](https://github.com/Ayushx975/muleshield-web) | AI mule-account detection · CyberShield 2026 (BOI × IIT Hyderabad) |
 | [Predictifi-cloud](https://github.com/Ayushx975/Predictifi-cloud) | Predictive maintenance SaaS · CodeFusion 2K26 (Microsoft) |
+| [upi-anomaly-guard](https://github.com/Ayushx975/upi-anomaly-guard) | UPI anomaly detection · Isolation Forest + rule flags |
+| [credit-scorer-lite](https://github.com/Ayushx975/credit-scorer-lite) | Credit scoring with reason codes · XGBoost |
+| [portfolio-stats-api](https://github.com/Ayushx975/portfolio-stats-api) | Portfolio analytics API · FastAPI + pytest |
 | [mule-](https://github.com/Ayushx975/mule-) | Money-mule detection ML core (Python) |
-| [Study_Zine](https://github.com/Ayushx975/Study_Zine) | Study companion: Pomodoro, Notes, Flashcards (TypeScript) |
-| [Aetherbloom](https://github.com/Ayushx975/Aetherbloom) | Python experimentation & ML prototyping |
 
 ---
 
