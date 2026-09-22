@@ -2,6 +2,10 @@
 <h3 align="center">AI/ML Developer · FinTech & Cybersecurity · National Hackathon Finalist</h3>
 
 <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EE5B6&width=435&lines=AI%2FML+Developer;FinTech+%26+Cybersecurity;National+Hackathon+Finalist" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ayushx975&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Ayushx975?label=Followers&style=flat&color=orange" alt="Followers" />
   <img src="https://img.shields.io/badge/CyberShield_2026-Top_18_National_Finalist-8A2BE2?style=flat" alt="CyberShield Finalist" />
@@ -84,6 +88,10 @@ Full-Stack           FastAPI · Next.js · TypeScript · PostgreSQL
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ayushx975&show_icons=true&theme=tokyonight&rank_icon=percent" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushx975&layout=compact&theme=tokyonight&langs_count=8" />
+  <img height="160" src="https://streak-stats.demolab.com?user=Ayushx975&theme=tokyonight&hide_border=true" />
+</p>
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayushx975&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
